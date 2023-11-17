@@ -1,0 +1,26 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_status  
+{
+  color: black;
+  font-size: 25px;
+}
+.heading
+{
+  font-size: 30px;
+  border-radius: 10px;
+  letter-spacing: 5px;
+}
